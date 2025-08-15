@@ -20,10 +20,15 @@ It’s designed as a beginner-friendly project to understand **continuous integr
 hello-java-maven/
 │
 ├── pom.xml
+
 ├── screenshots/
+
 └── src/
+
 └── main/
+
 └── java/
+
 └── HelloWorld.java
 
 ---
